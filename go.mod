@@ -1,3 +1,3 @@
-module github.com/adibpraditya/go-say-hello
+module github.com/adibpraditya/go-say-hello/v2
 
 go 1.14
